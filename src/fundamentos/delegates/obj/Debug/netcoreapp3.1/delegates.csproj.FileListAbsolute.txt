@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/bin/Debug/netcoreapp3.1/delegates.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.genruntimeconfig.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.csprojAssemblyReference.cache

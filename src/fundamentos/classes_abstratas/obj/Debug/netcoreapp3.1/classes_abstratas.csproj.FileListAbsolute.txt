@@ -1,0 +1,12 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/bin/Debug/netcoreapp3.1/classes_abstratas.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/classes_abstratas/obj/Debug/netcoreapp3.1/classes_abstratas.genruntimeconfig.cache

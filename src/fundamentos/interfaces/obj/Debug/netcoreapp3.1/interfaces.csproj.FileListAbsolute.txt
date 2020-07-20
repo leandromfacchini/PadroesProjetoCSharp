@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/bin/Debug/netcoreapp3.1/interfaces.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.genruntimeconfig.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/interfaces/obj/Debug/netcoreapp3.1/interfaces.csprojAssemblyReference.cache

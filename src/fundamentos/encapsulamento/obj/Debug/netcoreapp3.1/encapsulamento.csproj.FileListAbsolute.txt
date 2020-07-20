@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/bin/Debug/netcoreapp3.1/encapsulamento.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.genruntimeconfig.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/encapsulamento/obj/Debug/netcoreapp3.1/encapsulamento.csprojAssemblyReference.cache

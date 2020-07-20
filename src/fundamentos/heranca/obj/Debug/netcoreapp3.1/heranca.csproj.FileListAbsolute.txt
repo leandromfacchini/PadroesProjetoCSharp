@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/bin/Debug/netcoreapp3.1/heranca.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.csprojAssemblyReference.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/heranca/obj/Debug/netcoreapp3.1/heranca.genruntimeconfig.cache

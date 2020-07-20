@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/bin/Debug/netcoreapp3.1/polimorfismo.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.csprojAssemblyReference.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/polimorfismo/obj/Debug/netcoreapp3.1/polimorfismo.genruntimeconfig.cache
