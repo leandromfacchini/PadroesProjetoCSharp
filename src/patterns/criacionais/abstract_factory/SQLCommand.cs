@@ -2,6 +2,7 @@ using System;
 
 namespace abstract_factory
 {
+    //Produto Concreto (Concrete Product)
     public class SQLCommand : DBCommand
     {
         public override void Execute()
