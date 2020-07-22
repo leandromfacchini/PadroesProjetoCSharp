@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/bin/Debug/netcoreapp3.1/abstract_factory.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.genruntimeconfig.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/abstract_factory/obj/Debug/netcoreapp3.1/abstract_factory.csprojAssemblyReference.cache

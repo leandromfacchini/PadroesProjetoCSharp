@@ -10,4 +10,3 @@
 /home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.dll
 /home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.pdb
 /home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.genruntimeconfig.cache
-/home/leandro/repos/PadroesProjetoCSharp/src/fundamentos/delegates/obj/Debug/netcoreapp3.1/delegates.csprojAssemblyReference.cache
