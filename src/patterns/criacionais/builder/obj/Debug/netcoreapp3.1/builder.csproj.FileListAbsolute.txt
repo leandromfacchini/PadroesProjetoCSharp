@@ -1,0 +1,13 @@
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder.deps.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder.runtimeconfig.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder.runtimeconfig.dev.json
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/bin/Debug/netcoreapp3.1/builder.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.csproj.CoreCompileInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.AssemblyInfoInputs.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.AssemblyInfo.cs
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.dll
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.pdb
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.genruntimeconfig.cache
+/home/leandro/repos/PadroesProjetoCSharp/src/patterns/criacionais/builder/obj/Debug/netcoreapp3.1/builder.csprojAssemblyReference.cache
