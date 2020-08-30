@@ -2,7 +2,6 @@ namespace builder
 {
     public class MotoBuilder : VeiculoBuilder
     {
-
         public MotoBuilder()
         {
             _veiculo = new Veiculo("MotoCicleta");
